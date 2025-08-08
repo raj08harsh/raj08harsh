@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Harsh Raj</h1>
-<h3 align="center">Web Developer | Python & Java Programmer | Building Cool Stuff</h3>
+<h3 align="center">Full-Stack Web Developer | Mobile Developer  | Building Cool Stuff</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam012v&label=Profile%20views&color=0e75b6&style=flat" alt="shivam012v" /> </p>
 
 
 
-- 🔭 I’m  Currently building an Admin Panel & Study Platform for real-world use. *Coderszonee*
+- 🔭 I’m currently building *VakeelSetu, a cross-platform Flutter app to connect users with legal professionals for consultations and notary services.*
 
-- 🌱 I’m currently learning *Next.js, Flask APIs, and Supabase*
+- 🌱 I’m currently learning *Next.js, Google Map APIs, and MongoDb*
 
 - 📫 How to reach me *raj08harsh@gmail.com*
 
